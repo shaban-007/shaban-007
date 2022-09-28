@@ -11,7 +11,7 @@
 
 <h3 align="center">
     I am a gresh graduat System Software Engineer <br />
-    I am Computer Science Graduate from october universty, , Egypt.<br />
+    I am Computer Science Graduate from Egypt.<br />
     I am Machine learning engineering and Flutter developer.<br />
     I like solving competitive coding problems, exploring new technologies, drawing, painting, travelling and gaming.
 </h3>
