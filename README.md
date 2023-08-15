@@ -10,10 +10,11 @@
 
 
 <h3 align="center">
-    I am a fresh graduat System Software Engineer <br />
-    I am Computer Science Graduate from Egypt.<br />
-    I am Machine learning engineering and Flutter developer.<br />
-    I like solving competitive coding problems, exploring new technologies, drawing, painting, travelling and gaming.
+    Experienced software developer with expertise in various technologies and frameworks. Strong problem-solving
+skills and a passion for innovation. Proven track record of delivering high-quality solutions within deadlines.
+Effective collaborator and excellent communicator in cross-functional teams. Continuously learning and staying
+updated with industry trends. Seeking an opportunity to contribute to a dynamic organization's success.
+
 </h3>
 
 <p align='center' style='margin: 16px 4px 8px;'>
